@@ -1,0 +1,5 @@
+# Robots.txt for Sumana Pervaiz Email Copywriting Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://ais-pre-jox2kubl5g77izhkg77bpo-569306933196.asia-southeast1.run.app/sitemap.xml
