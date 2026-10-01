@@ -4,7 +4,7 @@
  */
 
 import React, { useState } from 'react';
-import defaultPortrait from './assets/images/copywriter_portrait_1790841410658.jpg';
+import defaultPortrait from '../Gemini_Generated_Image_m22zhim22zhim22z.jpg';
 import { Navbar } from './components/Navbar.tsx';
 import { Hero } from './components/Hero.tsx';
 import { About } from './components/About.tsx';
